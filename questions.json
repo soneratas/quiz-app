@@ -3,30 +3,30 @@
     "Toprak Oluşumu": [
       {
         ["Yerli(Zonal) Toprak tipleri nelerdir?", "Laterit, Podzol, Terra Rosa, Çernozyom, Kahverengi Orman, Kestane ve Kahverengi Bozkır, Tundra ve Çöl"],
-        ("Laterit toprakları nerelerde görülür?", "Doğu karadeniz"),
-        ("Podzol toprakları nerelerde görülür?", "Batı karadeniz"),
-        ("Terra Rosa toprakları nerelerde görülür?", "Ege ve Akdeniz"),
-        ("Çernozyom toprakları nerelerde görülür?", "Erzurum - Kars"),
-        ("Kahverengi Orman toprakları nerelerde görülür?", "Kuzey Anadolu dağlarının denize bakan yamaçlarında"),
-        ("Kestane ve Kahverengi Bozkır toprakları nerelerde görülür?", "İç kesimler"),
-        ("İntrazonal Toprak tipleri nelerdir?", "Hidromorfik, Kalsimorfik, Halomorfik(Tuzlu)"),
-        ("Fazla miktarda kireç içeren topraklar?", "Kalsimorfik topraklar"),
-        ("Kalsimorfik toprak tipleri nelerdir?", "Vertisoller ve Rendzima"),
-        ("Vertisollerin(Taş doğuran) en yoğun olduğu yerler?", "Ergene ve Bitlis çevresi"),
-        ("Rendzina topraklar nerelerde görülür?", "Marmara, Ege ve Akdeniz"),
-        ("Halomorfik(Tuzlu) topraklar nerelerde görülür?", "Konya, Erzurum, Büyük ve Küçük Menderes"),
-        ("Lös topraklar nerelerde görülür?", "Çöllerde ve karasal alanların iç kesimlerinde")
+        ["Laterit toprakları nerelerde görülür?", "Doğu karadeniz"],
+        ["Podzol toprakları nerelerde görülür?", "Batı karadeniz"],
+        ["Terra Rosa toprakları nerelerde görülür?", "Ege ve Akdeniz"],
+        ["Çernozyom toprakları nerelerde görülür?", "Erzurum - Kars"],
+        ["Kahverengi Orman toprakları nerelerde görülür?", "Kuzey Anadolu dağlarının denize bakan yamaçlarında"],
+        ["Kestane ve Kahverengi Bozkır toprakları nerelerde görülür?", "İç kesimler"],
+        ["İntrazonal Toprak tipleri nelerdir?", "Hidromorfik, Kalsimorfik, Halomorfik(Tuzlu)"],
+        ["Fazla miktarda kireç içeren topraklar?", "Kalsimorfik topraklar"],
+        ["Kalsimorfik toprak tipleri nelerdir?", "Vertisoller ve Rendzima"],
+        ["Vertisollerin(Taş doğuran) en yoğun olduğu yerler?", "Ergene ve Bitlis çevresi"],
+        ["Rendzina topraklar nerelerde görülür?", "Marmara, Ege ve Akdeniz"],
+        ["Halomorfik(Tuzlu) topraklar nerelerde görülür?", "Konya, Erzurum, Büyük ve Küçük Menderes"],
+        ["Lös topraklar nerelerde görülür?", "Çöllerde ve karasal alanların iç kesimlerinde"]
       }
     ]
     "Türkiye'de Hayvancılık": [
-        ("Sığır yetiştiriciliği en çok nerelerde görülür?", "Konya, İzmir, Erzurum, Ankara"),
-        ("Manda yetiştiriciliği en çok nerelerde görülür?", "Samsun, Diyarbakır, İstanbul, Kayseri"),
-        ("Kümes hayvancılığı en çok nerelerde görülür?", "Manisa, Balıkesir, Bolu, Sakarya"),
-        ("İpek böcekçiliği en çok nerelerde görülür?", "Diyarbakır, Antalya, Ankara, Muğla"),
-        ("Arıcılık en çok nerelerde görülür?", "Ordu, Adana, Muğla, Sivas"),
-        ("Koyun yetiştiriciliği en çok nerelerde görülür?", "Van, Konya, Urfa, Diyarbakır"),
-        ("Kıl keçisi yetiştiriciliği en çok nerelerde görülür?", "Mersin, Antalya, Siirt, Şırnak"),
-        ("Tiftik keçisi yetiştiriciliği en çok nerelerde görülür?", "Ankara, Siirt, Mardin, Eskişehir"),
+        ["Sığır yetiştiriciliği en çok nerelerde görülür?", "Konya, İzmir, Erzurum, Ankara"],
+        ["Manda yetiştiriciliği en çok nerelerde görülür?", "Samsun, Diyarbakır, İstanbul, Kayseri"],
+        ["Kümes hayvancılığı en çok nerelerde görülür?", "Manisa, Balıkesir, Bolu, Sakarya"],
+        ["İpek böcekçiliği en çok nerelerde görülür?", "Diyarbakır, Antalya, Ankara, Muğla"],
+        ["Arıcılık en çok nerelerde görülür?", "Ordu, Adana, Muğla, Sivas"],
+        ["Koyun yetiştiriciliği en çok nerelerde görülür?", "Van, Konya, Urfa, Diyarbakır"],
+        ["Kıl keçisi yetiştiriciliği en çok nerelerde görülür?", "Mersin, Antalya, Siirt, Şırnak"],
+        ["Tiftik keçisi yetiştiriciliği en çok nerelerde görülür?", "Ankara, Siirt, Mardin, Eskişehir"],
 
   }
   "tarih":[
