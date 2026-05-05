@@ -68,4 +68,28 @@
       ["Kristal Gece nedir?", "Yahudi katliamı"]
     ]
   }
+  "ingilizce": {
+    "Kelimeler":[
+        ["Scratch", "Kazımak"],
+        ["Angular", "Açılı - Köşeli"],
+        ["Represent", "Temsil etmek, Yansıtmak"],
+        ["Compass", "Pusula"],
+        ["Ozzy", "Çamurlu"],
+        ["Bare", "Çıplak"],
+        ["Porthole", "Lomboz"],
+        ["Shiny", "Parlak"],
+        ["Brass", "Pirinç"],
+        ["Knob", "Topuz"],
+        ["Polish", "Cila"],
+        ["Tile", "Fayans"],
+        ["Peg", "Askı"],
+        ["Fond", "Düşkün"],
+        ["Pantry", "Kiler"],
+        ["Devote", "Adamak"],
+        ["Meadow", "Çayır"],
+        ["Incline", "Eğilmek, Meyletmek"],
+        ["Chiefly", "Çoğunlukla"],
+        ["Sole", "Yegane, Taban"]
+    ]
+  }
 }
