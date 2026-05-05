@@ -2,7 +2,7 @@
   "cografya": {
     "Toprak Oluşumu": [
       {
-        ("Yerli(Zonal) Toprak tipleri nelerdir?", "Laterit, Podzol, Terra Rosa, Çernozyom, Kahverengi Orman, Kestane ve Kahverengi Bozkır, Tundra ve Çöl"),
+        ["Yerli(Zonal) Toprak tipleri nelerdir?", "Laterit, Podzol, Terra Rosa, Çernozyom, Kahverengi Orman, Kestane ve Kahverengi Bozkır, Tundra ve Çöl"],
         ("Laterit toprakları nerelerde görülür?", "Doğu karadeniz"),
         ("Podzol toprakları nerelerde görülür?", "Batı karadeniz"),
         ("Terra Rosa toprakları nerelerde görülür?", "Ege ve Akdeniz"),
