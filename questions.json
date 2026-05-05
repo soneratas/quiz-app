@@ -2,22 +2,16 @@
   "cografya": {
     "Toprak Oluşumu": [
       {
-        "soru":"Yerli(Zonal) Toprak tipleri nelerdir?", "cevap":"Laterit, Podzol, Terra Rosa, Çernozyom, Kahverengi Orman, Kestane ve Kahverengi Bozkır, Tundra ve Çöl",
-        "soru":"Laterit toprakları nerelerde görülür?", "cevap":"Doğu karadeniz",
-        "soru":"Podzol toprakları nerelerde görülür?", "cevap":"Batı karadeniz",
-        "soru":"Terra Rosa toprakları nerelerde görülür?", "cevap":"Ege ve Akdeniz",
-        "soru":"Çernozyom toprakları nerelerde görülür?", "cevap":"Erzurum - Kars",
-        "soru":"Kahverengi Orman toprakları nerelerde görülür?", "cevap":"Kuzey Anadolu dağlarının denize bakan yamaçlarında",
-        "soru":"Kestane ve Kahverengi Bozkır toprakları nerelerde görülür?", "cevap":"İç kesimler",
-        "soru":"İntrazonal Toprak tipleri nelerdir?", "cevap":"Hidromorfik, Kalsimorfik, Halomorfik(Tuzlu)",
-        "soru":"Fazla miktarda kireç içeren topraklar?", "cevap":"Kalsimorfik topraklar",
-        "soru":"Kalsimorfik toprak tipleri nelerdir?", "cevap":"Vertisoller ve Rendzima",
-        "soru":"Vertisollerin(Taş doğuran) en yoğun olduğu yerler?", "cevap":"Ergene ve Bitlis çevresi",
-        "soru":"Rendzina topraklar nerelerde görülür?", "cevap":"Marmara, Ege ve Akdeniz",
-        "soru":"Halomorfik(Tuzlu) topraklar nerelerde görülür?", "cevap":"Konya, Erzurum, Büyük ve Küçük Menderes",
-        "soru":"Lös topraklar nerelerde görülür?", "cevap":"Çöllerde ve karasal alanların iç kesimlerinde"
+        ["Sığır yetiştiriciliği en çok nerelerde görülür?", "Konya, İzmir, Erzurum, Ankara"],
+        ["Manda yetiştiriciliği en çok nerelerde görülür?", "Samsun, Diyarbakır, İstanbul, Kayseri"],
+        ["Kümes hayvancılığı en çok nerelerde görülür?", "Manisa, Balıkesir, Bolu, Sakarya"],
+        ["İpek böcekçiliği en çok nerelerde görülür?", "Diyarbakır, Antalya, Ankara, Muğla"],
+        ["Arıcılık en çok nerelerde görülür?", "Ordu, Adana, Muğla, Sivas"],
+        ["Koyun yetiştiriciliği en çok nerelerde görülür?", "Van, Konya, Urfa, Diyarbakır"],
+        ["Kıl keçisi yetiştiriciliği en çok nerelerde görülür?", "Mersin, Antalya, Siirt, Şırnak"],
+        ["Tiftik keçisi yetiştiriciliği en çok nerelerde görülür?", "Ankara, Siirt, Mardin, Eskişehir"],
       }
-    ]
+    ],
     "Türkiye'de Hayvancılık": [
         ["Sığır yetiştiriciliği en çok nerelerde görülür?", "Konya, İzmir, Erzurum, Ankara"],
         ["Manda yetiştiriciliği en çok nerelerde görülür?", "Samsun, Diyarbakır, İstanbul, Kayseri"],
@@ -28,7 +22,7 @@
         ["Kıl keçisi yetiştiriciliği en çok nerelerde görülür?", "Mersin, Antalya, Siirt, Şırnak"],
         ["Tiftik keçisi yetiştiriciliği en çok nerelerde görülür?", "Ankara, Siirt, Mardin, Eskişehir"],
 
-  }
+  },
   "tarih":[
     "Osmanlı Kültür ve Medeniyeti": [
         ("Beylerbeyi sefere gittiği zaman yerine bakan kimdir?", "Mütesellim"),
